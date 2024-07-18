@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+body{
+    background-color: black;
+}
+.card{
+    margin-left : 370px;
+    padding:0;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    width: 600px;
+    height: 800px;
+    background-color: beige;
+    border-radius: 3%;
+    
+}
+img{
+    height: 400px;
+    width: 400px;
+    border-radius: 10%;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+h5{
+    border: solid 1px;
+    border-radius: 30%;   
+    text-size-adjust: 1.4em; 
+}
+.para{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 92px;
+    padding-bottom: 10px;
+}
+.image{
+    padding-top: 10px;;
+}
+.btn{
+    padding-bottom: 20px;
+    
+}
